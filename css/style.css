@@ -1,0 +1,17 @@
+.admintitle
+{
+   background-color: brown;
+   color: rgb(255, 255, 255);
+   margin-left: 50px;
+   margin-right: 50px;
+   height: 140px;
+   line-height: 140px;
+}
+
+.dashbord
+{
+    background-color: beige;
+    margin-left: 50px;
+   margin-right: 50px;
+   height: 140px;
+}
